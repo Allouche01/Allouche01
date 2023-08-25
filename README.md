@@ -11,7 +11,7 @@
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
 </div> 
 <br/>
-  - 🎓 I know these areas in genreal, specializing in Java and MySql;
+  - 🎓 I know these areas in genreal, specializing in Java and MySql, check my linkdin to see more.
 <br/>
 <br/>
 <div> 
