@@ -1,6 +1,6 @@
 ## Hi! I am Bryan A Allouche 
 - 📚 Developer and Student;
-- 💼 Currently work as a Tax Assistant;
+- 💼 Currently work as a Biller;
 - 👨‍💻 Deep in Back-end;
 <div> 
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> &nbsp
