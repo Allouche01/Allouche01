@@ -1,5 +1,5 @@
 ## Hi! I am Bryan A Allouche 
-- 📚 Developer and Student;
+- 📚 Graduated in systems analysis and development;
 - 💼 Currently work as a Biller;
 - 👨‍💻 Deep in Back-end;
 <div> 
@@ -10,11 +10,5 @@
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
 </div> 
+  <!- 🎓 I know these areas in genreal, specializing in Java and MySql, check my linkdin to see more. -->
 <br/>
-  - 🎓 I know these areas in genreal, specializing in Java and MySql, check my linkdin to see more.
-<br/>
-<br/>
-<div> 
-<a href="https://www.instagram.com/allouchxx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> 
-<a href="https://www.linkedin.com/in/bryanallouche/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-</div>
